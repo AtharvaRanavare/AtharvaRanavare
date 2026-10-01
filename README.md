@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner.svg" alt="Atharva Ranavare - Computer Science Engineer" width="100%"/>
+  <img src="./Atharva-Ranavare-Dynamic-Banner.svg"
+       alt="Atharva Ranavare - Computer Science Engineer"
+       width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Atharva Ranavare</h1>
