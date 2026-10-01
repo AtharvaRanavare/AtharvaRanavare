@@ -28,12 +28,12 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 <p align="left">
 
 <!-- LinkedIn -->
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/digvijay-ranavare-9a6522268/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
 <!-- Gmail -->
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:atharvaranavare@gmail.com" target="_blank">
   <img align="center"
        src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"
        alt="Gmail"
@@ -41,7 +41,7 @@ I enjoy building **AI-powered applications and practical software solutions** wh
 </a>
 
 <!-- HackerRank -->
-<a href="YOUR_HACKERRANK_URL" target="_blank">
+<a href="https://www.hackerrank.com/profile/DigvijayRanavare" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 
