@@ -7,21 +7,19 @@
 <h1 align="center">Hi 👋, I'm Atharva Ranavare</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Java | Python | Full Stack Development | AI/ML
+Aspiring Software Developer| Python | SQL | AI/ML | Backend Development
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/Developer.gif">
 
-- 🎓 Computer Science & Engineering Graduate
+- 🎓 Computer Science & Engineering Graduate From MIT World Peace University
 - 💼 Currently seeking a **fresher opportunity in Software Development**
 
 ### 👨‍💻 About Me
 
-I’m a **Computer Science & Engineering graduate and aspiring Software Developer** focused on **Java, Python, full-stack development, SQL, and AI/ML**.
+I’m a **Computer Science & Engineering graduate and aspiring Software Developer** focused on **Python, SQL, AI/ML and Backend Development**.
 
-I enjoy building **practical software solutions and real-world applications** while continuously improving my development, problem-solving, and technical skills.
-
-I have worked on projects involving **React, Spring Boot, Node.js, Python, MongoDB, MySQL, and machine learning**, and I enjoy exploring new technologies and turning ideas into working applications.
+I enjoy building **AI-powered applications and practical software solutions** while continuously improving my development, problem-solving, and technical skills.
 
 <h3 align="left">🔗 Connect with me:</h3>
 
@@ -49,11 +47,10 @@ I have worked on projects involving **React, Spring Boot, Node.js, Python, Mongo
 
 ### 🔭 What I'm Working On
 
-- 💻 Building full-stack applications using **React and Spring Boot**
-- 🐍 Strengthening my **Python programming and problem-solving skills**
-- 🗄️ Practicing **SQL, database management, and backend development**
+- 💻 Building AL/ML applications using **Python**
+- 🐍 Strengthening my **Python, SQL, Machine Learning Skills**
+- 🗄️ Practicing **Python, SQL and backend development**
 - 🤖 Exploring **AI/ML and Generative AI**
-- 📊 Improving my **Data Analytics and Power BI** skills
 - 🚀 Building practical projects focused on real-world problems
 
 ### 🛠️ Languages & Tools
@@ -74,15 +71,6 @@ I have worked on projects involving **React, Spring Boot, Node.js, Python, Mongo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-
 <!-- Web Development -->
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -92,19 +80,6 @@ I have worked on projects involving **React, Spring Boot, Node.js, Python, Mongo
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
 
 <!-- AI / ML -->
 
@@ -131,16 +106,7 @@ I have worked on projects involving **React, Spring Boot, Node.js, Python, Mongo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-
 <!-- Tools -->
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -157,11 +123,8 @@ I have worked on projects involving **React, Spring Boot, Node.js, Python, Mongo
 
 - 📊 **PortTrack – Competitive Programming Analytics Platform**
 - 🛒 **Store Management System**
-- 🚗 **CarMate Chatbot**
-- 🌱 **Smart AgroGuardian**
-- 🖼️ **Image Captioning Using Transformers**
-- 🧠 **Mental Wellness Chatbot**
-- 🐍 **Python & HackerRank Practice**
+- 🚗 **AI-Based Essay Grading System**
+- 🌱 **Emojify Detection**
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
