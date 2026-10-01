@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./Atharva-Ranavare-Dynamic-Banner.svg"
-       alt="Atharva Ranavare - Computer Science Engineer"
+  <img src="./Digvijay-Ranavare-Dynamic-Banner.svg"
+       alt="Digvijay Ranavare - Computer Science Engineer"
        width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Atharva Ranavare</h1>
+<h1 align="center">Hi 👋, I'm Digvijay Ranavare</h1>
 
 <h3 align="center">
 Aspiring Software Developer| Python | SQL | AI/ML | Backend Development
